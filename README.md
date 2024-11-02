@@ -29,7 +29,7 @@ Code Editor: IntelliJ IDEA, Eclipse, or NetBeans.
 Installation 📥
 Clone the Repository:
 
-git clone https://github.com/your-username/EmployeeManagementSystem.git
+git clone https://github.com/rabs-ramii-801/EmployeeManagementSystem.git
 Database Setup:
 
 Open MySQL Workbench or any MySQL client.
